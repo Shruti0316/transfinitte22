@@ -1,0 +1,9 @@
+[submodule "Whitelisted-ICO"]
+	path = Whitelisted-ICO
+	url = https://github.com/Shruti0316/Whitelisted-ICO
+[submodule "ERC721"]
+	path = ERC721
+	url = https://github.com/Shruti0316/ERC721
+[submodule "Token_gating"]
+	path = Token_gating
+	url = https://github.com/BhuvanaChandraP/Token_gating
